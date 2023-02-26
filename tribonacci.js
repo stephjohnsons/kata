@@ -1,5 +1,5 @@
 /* ------------------------------------------------------
-   Tribonacci Sequence
+   Tribonacci Sequence (6 kyu)
    https://www.codewars.com/kata/556deca17c58da83c00002db 
    ------------------------------------------------------*/
 
