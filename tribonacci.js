@@ -1,3 +1,8 @@
+/* ------------------------------------------------------
+   Tribonacci Sequence
+   https://www.codewars.com/kata/556deca17c58da83c00002db 
+   ------------------------------------------------------*/
+
 function tribonacci(signature, n) {
     // Where n = 0, the signature array returns [];
     if (n === 0) {
